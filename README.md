@@ -1,4 +1,4 @@
-# SentimentsAnalysis
+# SentimentAnalysis
 Analyse de sentiments de Tweets de la US Airline :
 
 **Avec CountVectorizer:**
